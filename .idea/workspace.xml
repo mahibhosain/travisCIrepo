@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16b086cf-a8ab-4858-8a20-99cc13b0bc83" name="Default" comment="" />
+    <list default="true" id="16b086cf-a8ab-4858-8a20-99cc13b0bc83" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +52,8 @@
       <file leaf-file-name="FahrenheitTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="281">
+              <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +110,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -134,6 +139,7 @@
     <option name="width" value="1385" />
     <option name="height" value="869" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -357,7 +363,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525288557929</updated>
-      <workItem from="1525288632828" duration="4161000" />
+      <workItem from="1525288632828" duration="4178000" />
     </task>
     <servers />
   </component>
@@ -394,7 +400,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4161000" />
+    <option name="totallyTimeSpent" value="4178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="832" extended-state="6" />
@@ -410,7 +416,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -514,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="281">
+          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
